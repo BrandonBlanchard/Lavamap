@@ -1,0 +1,9 @@
+.furniture-customization {
+  border: 4px solid #1D2E42;
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
